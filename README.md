@@ -1,20 +1,95 @@
-# happy
-## About me
-### love me 
-**My personal repositroy 2**
-*My personal repositroy 3*
->My personal repositroy 4
-1.My personal repositroy 5
-2.My personal repositroy 6
-3.My personal repositroy 7
-- My personal repositroy 8
-- My personal repositroy 9
-- My personal repositroy 10
-`My personal repositroy 11`
----My personal repositroy 12
-[title](https://www.example.com)
-![alt text](image.jpg)
-My personal repositroy 15
-My personal repositroy 16
-My personal repositroy 17
-😗
+mindmap
+  root（（医疗器械结构设计工程师<br>能力提升树））
+    一、核心硬技能
+      ：：icon（fa fa-cogs）
+      机械设计基础
+        塑胶件设计（DFM）
+        钣金件设计
+        机加件设计
+        公差分析与堆叠
+        表面处理工艺
+      先进设计工具
+        CAD软件（SolidWorks， Pro/E）
+        CAE仿真（结构/流体/热）
+        生成式AI辅助设计（如“闪设”）
+      系统与交叉学科
+        有源器械结构集成
+        机电一体化与传动
+        微型化与散热/EMC设计
+        模块化与备选方案设计
+    二、材料与工艺进阶
+      ：：icon（fa fa-flask）
+      关键材料
+        生物可吸收材料
+        高性能复合材料
+        形状记忆合金
+      先进制造
+        增材制造（3D打印）量产
+        微型/高精度加工
+        多材料一体化制造
+      后处理工艺
+        热处理/表面涂层
+        灭菌方式适配
+    三、法规与质量体系
+      ：：icon（fa fa-gavel）
+      核心体系
+        ISO 13485
+        QSR 21 CFR Part 820
+      关键流程
+        设计控制（Design Control）
+        设计历史文件（DHF）
+        技术文件（TD）
+      风险管理
+        ISO 14971：2019
+        全生命周期风险分析（FMEA）
+      产品全生命周期
+        设计规划→输入→输出
+        验证→转移→上市后监管
+      区域注册
+        FDA 510（k）/ PMA
+        CE MDR
+        NMPA
+    四、前沿技术视野
+      ：：icon（fa fa-chart-line）
+      AI赋能
+        AI生成式设计方案
+        AI仿真预测建模
+        训练/微调行业模型
+      医工交叉
+        临床沟通与需求转化
+        手术机器人系统
+        介入器械集成（导航/影像）
+      系统化工程
+        可靠性工程
+        价值工程/成本优化
+        供应链可制造性设计
+    五、软实力与认证
+      ：：icon（fa fa-users）
+      项目管理
+        研发项目全流程管理
+        跨部门资源协调
+      沟通协作
+        与临床/算法/电子工程师协作
+        技术文档撰写与汇报
+      职业认证
+        ASQ CQE（质量工程师）
+        六西格玛绿带/黑带
+        RAC（法规事务认证）
+      持续学习
+        行业会议/沙龙（如“医工学人”）
+        播客（MedTech Innovator）
+        专业媒体（Medical Design Briefs）
+    六、成长路线参考
+      ：：icon（fa fa-road）
+      0-2年（初级）
+        夯实CAD/CAE，熟悉基础工艺
+        了解ISO 13485，协助编制文档
+      3-5年（中级）
+        独立完成有源/无源产品设计
+        掌握风险分析与设计控制
+      6-9年（高级）
+        主导复杂系统（机器人/介入）
+        精通法规，主导合规审查
+      10年+（专家/架构）
+        领域权威（精密传动/微型化）
+        统筹全生命周期与商业化
